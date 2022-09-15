@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.4](https://github.com/ranjith273282/testcd/compare/v0.1.3...v0.1.4) (2022-09-15)
+
+
+### Bug Fixes
+
+* **new-feature:** add a new-feature to our project ([d14fa11](https://github.com/ranjith273282/testcd/commit/d14fa11cb01ef17ea0d9bad2ae79e806b6e368d9))
+
 ### [0.1.3](https://github.com/ranjith273282/testcd/compare/v0.1.2...v0.1.3) (2022-09-15)
 
 ### [0.1.2](https://github.com/ranjith273282/testcd/compare/v0.1.1...v0.1.2) (2022-09-15)
